@@ -7,9 +7,9 @@ Tugas Individu Pemrograman Visual dan Pemrograman Web
 
 Tugas Meliputi : 
 1. PEMROGRAMAN VISUAL :  
-   -Kalkulator
-   -FORM Filling
-   -Tugas Opsional
+   - Kalkulator
+   - FORM Filling
+   - Tugas Opsional
 
 2. PEMROGRAMAN WEB : 
    - Web Portofolio

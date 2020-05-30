@@ -1,9 +1,19 @@
 # Tugas-Individu
-Tugas Pemvis dan Pemweb
+Tugas Individu Pemrograman Visual dan Pemrograman Web
 
 - Nama  : Indra Waskita
 - NIM   : 17051204010
 - Kelas : TI 2018B
+
+Tugas Meliputi : 
+1. PEMROGRAMAN VISUAL :  
+   -Kalkulator
+   -FORM Filling
+   -Tugas Opsional
+
+2. PEMROGRAMAN WEB : 
+   - Web Portofolio
+   - Web Opsional
 
 Materi yang diangkat pada
 Tugas Opsional Pemweb :
@@ -13,7 +23,7 @@ Tugas Opsional Pemweb :
 
 Materi Yang Diangkat Pada
 Tugas Opsional Pemvis : 
-- Pembuatan aplikasi input data form Tata Usaha Kampus 
+- Pembuatan aplikasi input data form Tata Usaha Kampus sederhana
   menyerupai WPF dengan menggunakan database Microsoft SQL
   
 
